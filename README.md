@@ -2,7 +2,7 @@
 
 Este proyecto está desarrollado en Django, utilizando HTML, CSS, BootStrap y JavaScript para el desarrollo de la interfaz de usuario.
 
-Este proyecto es una página de presentación para un negocio, que muestra información de la empresa, su catálogo de servicios y otras funcionalidades. Se trata de un frontend para una cafetería llamada "La Caffettiera".
+El proyecto es una página de presentación para un negocio, que muestra información de la empresa, su catálogo de servicios y otras funcionalidades. Se trata de un frontend para una cafetería llamada "La Caffettiera".
 
 ## Características
 
